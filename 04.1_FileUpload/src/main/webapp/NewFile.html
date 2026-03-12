@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- 
+    플젝 -> 빌드패스 -> lib(탭)
+
+    web(플젝) -> web-inf(.jar 파일은 여기에)
+     cos.jar
+
+     파일 업로드를 하는경우 html 에서 신경쓸게 단2개
+     
+요청방식은 post로 해야함 /get요청으로는 파일 전송 불가,Url에 파라미터로 표시되는데 파일명은 넘 길자나
+enctype(포장방식)을 바꿔야함 multipart/form-data (박스 포장)으로
+   내용물에 따라 봉투가 바뀌는게 맞으니까
+-->
+
+
+
+<form action="FileUpload" method="post" enctype="multipart/form-data">
+    이름: <input name="name">
+    사진: <input name="pic" type="file">
+    기타: <input name="etc" type="file">
+    <button>upload!</button>
+</form>
+
+
+
+
+
+
+</body>
+</html>

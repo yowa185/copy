@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>단위변환</title>
+
+<style>
+
+body{
+    background:#ffeef5;
+    font-family: "Arial";
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.container{
+    background:white;
+    padding:40px;
+    border-radius:20px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.1);
+    text-align:center;
+}
+
+h1{
+    color:#ff6fa5;
+}
+
+h2{
+    font-size:18px;
+    margin-bottom:15px;
+}
+
+input{
+    width:200px;
+    padding:10px;
+    border-radius:10px;
+    border:1px solid #ddd;
+    margin-bottom:15px;
+}
+
+select{
+    width:220px;
+    padding:10px;
+    border-radius:10px;
+    border:1px solid #ddd;
+    margin-bottom:20px;
+}
+
+button{
+    width:220px;
+    padding:12px;
+    border:none;
+    border-radius:15px;
+    background:#ff8fb7;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    transition:0.2s;
+}
+
+button:hover{
+    background:#ff6fa5;
+    transform:scale(1.05);
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+<form action="unit_output.jsp" onsubmit="return check()">
+<div class = container>
+	<div>단위변환</div>
+	<div>변환할 값</div>
+
+
+	<div>
+	<input name="num" id="no"> <br>
+	</div>
+
+	<div>
+		<select name="unit">
+		<option value = "cm" > cm → inch</option>
+		<option value = "㎡" > ㎡ → 평</option>
+		<option value = "°C" > °C → °F</option>
+		<option value = "km/h" > km/h → mi/h</option>
+		</select> <br>
+	</div>
+
+	<div>
+	<button>확인</button>
+	</div>
+
+</div>
+
+</form>
+
+<script type="text/javascript">
+
+	function check() {
+		const numEl = document.querySelector("#no");
+		if (numEl.value == "") {
+		alert ("필수 입력하세요!")
+		numEl.focus();
+		return false;
+
+		}
+	}
+
+</script>
+
+
+</body>
+</html>

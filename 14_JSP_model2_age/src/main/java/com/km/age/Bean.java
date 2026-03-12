@@ -1,0 +1,1 @@
+package com.km.age;import lombok.*;// 기본 생성자@NoArgsConstructor// 오버로딩 생성자@AllArgsConstructor// Getter Setter를 다 만들어주는 기능@Data// 생성자 생성 cmd + npublic class Bean {    private int birth;    private int age;    }
