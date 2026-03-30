@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %><html><head>    <title>Title</title></head><body>    <h1>    ${bean.birth} 년생이시군요, 당신의 나이는 ${bean.age} 살 입니다. </h1>    <a href="index.jsp">처음으로</a></body></html>

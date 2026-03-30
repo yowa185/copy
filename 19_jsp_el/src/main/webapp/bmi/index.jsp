@@ -1,0 +1,119 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+
+    <style>
+        /* 픽셀 폰트 불러오기 */
+        @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+        body {
+            font-family: 'Saenggeo Jincheon', sans-serif;
+            background-color: #ffdeeb;
+            background-image: radial-gradient(#ff8fb1 2px, transparent 2px); /* 더 굵은 도트 배경 */
+            background-size: 30px 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        /* 다마고치 본체 느낌의 폼 */
+        form {
+            background: #ffffff;
+            padding: 40px;
+            border: 6px solid #000; /* 두꺼운 외곽선 */
+            box-shadow: 15px 15px 0px #000; /* 클래식한 하드 쉐도우 */
+            width: 360px;
+            text-align: center;
+            position: relative;
+        }
+
+        /* 상단 타이틀 바 */
+        .header {
+            font-family: 'Press Start 2P', cursive;
+            font-size: 12px;
+            background: #000;
+            color: #fff;
+            padding: 12px;
+            margin: -40px -40px 30px -40px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        /* 입력 세션 */
+        .field {
+            margin: 20px 0;
+            text-align: left;
+        }
+
+        .field label {
+            font-size: 14px;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 8px;
+            color: #000;
+        }
+
+        /* 투박한 입력창 */
+        input {
+            width: 100%;
+            box-sizing: border-box;
+            padding: 12px;
+            border: 4px solid #000;
+            background: #fff;
+            font-size: 16px;
+            outline: none;
+            font-family: inherit;
+        }
+
+        input:focus {
+            background: #ffffd1; /* 입력 중일 때 강조 색상 */
+        }
+
+        /* 버튼: 누르면 쏙 들어가는 효과 */
+        button {
+            width: 100%;
+            margin-top: 20px;
+            padding: 18px;
+            border: 4px solid #000;
+            background: #ff8fb1;
+            color: #000;
+            font-size: 18px;
+            font-weight: 900;
+            cursor: pointer;
+            box-shadow: 8px 8px 0px #000;
+            transition: 0.1s;
+        }
+
+        button:hover {
+            background: #ff6f9b;
+            transform: translate(-3px, -3px);
+            box-shadow: 11px 11px 0px #000;
+        }
+
+        button:active {
+            transform: translate(5px, 5px); /* 실제 버튼 클릭 깊이감 */
+            box-shadow: 0px 0px 0px #000;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<form action="bmi" method="post">
+
+    <div><h1>BMI 검사</h1></div> <hr>
+    <div><h2>이름 </h2><input name = "name"></div>
+    <div><h2>키 (CM) </h2><input name = "height"></div>
+    <div><h2>체중 (KG) </h2><input name = "weight"></div>
+    <div><button><h2>계산</h2></button></div>
+
+</form>
+
+</body>
+</html>

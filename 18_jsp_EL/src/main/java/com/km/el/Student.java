@@ -1,0 +1,1 @@
+package com.km.el;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class Student {    // 결과에서 뭐 쓸 지    private String name;    private  double mid;    private  double last;    private  double avg;    private String grade;}

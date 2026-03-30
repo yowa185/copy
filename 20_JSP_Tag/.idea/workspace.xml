@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="tag:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="72bf7d0f-0fa2-4524-84c5-692beea136c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/java/com/km/el/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/java/com/km/el/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/webapp/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/ExController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/BmiModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/BmiVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/HC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/age/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/age/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/bmi/bmi_output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/bmi/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/pay/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/pay/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_BMI/src/main/webapp/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_BMI/src/main/webapp/bmi_output.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jsp_model2_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jsp_model2_test/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="12" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3B0dmS8SNDkQMQ4yZTN6cP3JInO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Tomcat Server.Tomcat 9.0.115.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 9.0.115" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="20_JSP_Tag" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="20_JSP_Tag" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.115" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.115" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="tag:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/tag_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="f03abcf4-3408-4e0f-8b04-873c3cb9b197" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="tag:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bf7d0f-0fa2-4524-84c5-692beea136c2" name="Changes" comment="" />
+      <created>1773630083459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773630083459</updated>
+      <workItem from="1773630084540" duration="929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

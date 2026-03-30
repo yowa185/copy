@@ -1,0 +1,1 @@
+package com.km.web;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class Human {    // 결과에서 뭘 쓸 지?? or db    private String name;    private int age;}

@@ -1,0 +1,1 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %><html><head>    <title>Title</title></head><body>  <img width="300px" src="https://i.pinimg.com/736x/02/d4/df/02d4df65019e2fe34fb5926f5309b592.jpg"></body></html>

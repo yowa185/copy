@@ -1,0 +1,1 @@
+package com.km.tag.bmi;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class BmiVO {    private String name;    private double height;    private double weight;    private double result;    private String judge;}

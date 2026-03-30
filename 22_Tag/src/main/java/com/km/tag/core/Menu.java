@@ -1,0 +1,1 @@
+package com.km.tag.core;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class Menu {    private String name;    private int price;}

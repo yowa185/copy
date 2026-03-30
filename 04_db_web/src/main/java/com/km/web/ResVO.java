@@ -1,0 +1,1 @@
+package com.km.web;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class ResVO {    // 결과에서 뭐 쓸 지?? or tbl    private int no;    private String name;    private String place;    private String img;}

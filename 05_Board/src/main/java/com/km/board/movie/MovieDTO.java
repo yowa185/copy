@@ -1,0 +1,1 @@
+package com.km.board.movie;import lombok.Data;@Datapublic class MovieDTO {    // 결과 페이지에서 뭐 쓸 지?? or DB tbl    private int no;    private String title;    private String actor;    private String img;    private String story;    }

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="687d75f3-f5ba-4ee9-9b27-4b6bb77ff4d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../18_jsp_EL/src/main/java/com/km/el/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../18_jsp_EL/src/main/java/com/km/el/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../18_jsp_EL/src/main/webapp/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/age/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/age/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/age/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/attr/ExController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/attr/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/attr/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/attr/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/bmi/BmiModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/bmi/BmiVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/bmi/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/pay/HC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/pay/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/com/km/el/pay/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/age/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attr/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attr/output2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/attr/output3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/bmi_output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bmi/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pay/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pay/output.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_BMI/src/main/webapp/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../09_BMI/src/main/webapp/bmi_output.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="11" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3B0QTCOVw6CUynPRn18P8iSw1QU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kimkyungmin/Desktop/webws_intellij/19_jsp_el/src/main/webapp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="687d75f3-f5ba-4ee9-9b27-4b6bb77ff4d3" name="Changes" comment="" />
+      <created>1773623512801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773623512801</updated>
+      <workItem from="1773623514257" duration="759000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/account/account.sql" value="8834c8dd-632a-4e66-b1e4-88149dca19d7" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/movie/movie.sql" value="8834c8dd-632a-4e66-b1e4-88149dca19d7" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/jsp/review/review.sql" value="8834c8dd-632a-4e66-b1e4-88149dca19d7" />
+  </component>
+</project>

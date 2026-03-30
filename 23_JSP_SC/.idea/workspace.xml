@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e04453bd-dee1-47f9-b7e1-91af52cb9dbe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/java/com/km/el/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/java/com/km/el/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../18_jsp_EL/src/main/webapp/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/age/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/ExController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/attr/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/BmiModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/BmiVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/bmi/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/HC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/java/com/km/el/pay/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/age/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/age/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/attr/output3.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/bmi/bmi_output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/bmi/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/pay/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../19_jsp_el/src/main/webapp/pay/output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../20_JSP_Tag/src/main/webapp/index2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/a/AC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/b/BC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/bmi/BMIC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/bmi/BmiModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/bmi/BmiVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/c/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/unit/UnitC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/unit/UnitModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/java/com/km/tag/unit/UnitVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/a/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/b/b.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/bmi/bmi_output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/bmi/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/c/c.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/css/bmi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/css/unit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/unit/unit_input.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../21_JSP_Tag/src/main/webapp/unit/unit_output.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/core/CoreC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/core/CoreM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/core/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/format/FormatC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/format/FormatM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/java/com/km/tag/format/Snack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/webapp/core/core.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/webapp/core/core_result.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/webapp/format/format.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/webapp/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../22_Tag/src/main/webapp/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/sc/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/km/sc/ThirdC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/second.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/third.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_BMI/src/main/webapp/bmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09_BMI/src/main/webapp/bmi_output.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jsp_model2_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Jsp_model2_test/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="17" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3B3bDjvSpbZn2KL4hSnq4K3bmv9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build 23_JSP_SC.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Tomcat Server.Tomcat 9.0.115.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.km.sc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+          <value>
+            <map>
+              <entry key="Tomcat 9.0.115" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="23_JSP_SC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="23_JSP_SC" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.115" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.115" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="Gradle : com.km : sc-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Gradle___com_km___sc_1_0_SNAPSHOT_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="468b75b8-fedb-4277-8969-384c47f0ca88" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.km : sc-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04453bd-dee1-47f9-b7e1-91af52cb9dbe" name="Changes" comment="" />
+      <created>1773720591106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773720591106</updated>
+      <workItem from="1773720592126" duration="9114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

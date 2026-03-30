@@ -1,0 +1,1 @@
+package com.km.web;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@NoArgsConstructor@AllArgsConstructor@Datapublic class MemberDTO {    // 결과에서 뭐 쓸 지?? or tbl(db를 조고 따라 써라 or table 보고 따라 써라)    private int no;    private String name;    private int age;}
